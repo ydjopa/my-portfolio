@@ -1,2 +1,2 @@
 # my-portfolio
-This is a Django App
+This is my Portfolio Django App
