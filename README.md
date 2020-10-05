@@ -1,2 +1,10 @@
 # my-portfolio
-This is my Portfolio Django App!
+This is my portfolio django app.
+
+My Portfolio Page: 
+
+## User Stories
+
+
+
+## Technologies Used
